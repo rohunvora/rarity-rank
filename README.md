@@ -1,0 +1,2 @@
+# rarity-rank
+check rarities
